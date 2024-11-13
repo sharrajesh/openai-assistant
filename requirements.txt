@@ -1,2 +1,5 @@
-openai>=1.51.2
-python-dotenv>=1.0.1
+openai
+python-dotenv
+aioboto3
+black
+ruff
